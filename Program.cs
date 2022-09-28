@@ -13,7 +13,7 @@ namespace Exponents_PowersTable
 
         public static void TableOfPowers()
         {
-            Console.WriteLine("Please enter a number 1 - 1092:");//1092 is max value that can be cubed without surpassing limit
+            Console.WriteLine("Please enter a number 1 - 1290:");//1290 is max value that can be cubed without surpassing limit
             string num = Console.ReadLine();
 
             while(true)//nested while loop controls for incorrect inputs(non-numeric values and values not within specified range)
@@ -24,14 +24,14 @@ namespace Exponents_PowersTable
                     num = Console.ReadLine();
                 }
 
-                if (userNumber >=1 && userNumber <= 1092)
+                if (userNumber >=1 && userNumber <= 1290)
                 {
                     break;
                 }
 
                 else
                 {
-                    Console.WriteLine("Try again. Make sure your number is between 1 and 1092.");
+                    Console.WriteLine("Try again. Make sure your number is between 1 and 1290.");
                     num = Console.ReadLine();
                 }
             }
