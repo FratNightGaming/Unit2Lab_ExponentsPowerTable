@@ -1,0 +1,13 @@
+/Users/Jake/Documents/Grand Circus/Labs/Exponents_PowersTable/bin/Debug/netcoreapp3.1/Exponents_PowersTable.deps.json
+/Users/Jake/Documents/Grand Circus/Labs/Exponents_PowersTable/bin/Debug/netcoreapp3.1/Exponents_PowersTable.runtimeconfig.json
+/Users/Jake/Documents/Grand Circus/Labs/Exponents_PowersTable/bin/Debug/netcoreapp3.1/Exponents_PowersTable.runtimeconfig.dev.json
+/Users/Jake/Documents/Grand Circus/Labs/Exponents_PowersTable/bin/Debug/netcoreapp3.1/Exponents_PowersTable.dll
+/Users/Jake/Documents/Grand Circus/Labs/Exponents_PowersTable/bin/Debug/netcoreapp3.1/Exponents_PowersTable.pdb
+/Users/Jake/Documents/Grand Circus/Labs/Exponents_PowersTable/obj/Debug/netcoreapp3.1/Exponents_PowersTable.csproj.AssemblyReference.cache
+/Users/Jake/Documents/Grand Circus/Labs/Exponents_PowersTable/obj/Debug/netcoreapp3.1/Exponents_PowersTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Jake/Documents/Grand Circus/Labs/Exponents_PowersTable/obj/Debug/netcoreapp3.1/Exponents_PowersTable.AssemblyInfoInputs.cache
+/Users/Jake/Documents/Grand Circus/Labs/Exponents_PowersTable/obj/Debug/netcoreapp3.1/Exponents_PowersTable.AssemblyInfo.cs
+/Users/Jake/Documents/Grand Circus/Labs/Exponents_PowersTable/obj/Debug/netcoreapp3.1/Exponents_PowersTable.csproj.CoreCompileInputs.cache
+/Users/Jake/Documents/Grand Circus/Labs/Exponents_PowersTable/obj/Debug/netcoreapp3.1/Exponents_PowersTable.dll
+/Users/Jake/Documents/Grand Circus/Labs/Exponents_PowersTable/obj/Debug/netcoreapp3.1/Exponents_PowersTable.pdb
+/Users/Jake/Documents/Grand Circus/Labs/Exponents_PowersTable/obj/Debug/netcoreapp3.1/Exponents_PowersTable.genruntimeconfig.cache
